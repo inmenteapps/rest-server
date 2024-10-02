@@ -6,7 +6,7 @@ router.get("/beer", async (req, res) => {
     data: {
       id: 1,
       uid: "1",
-      brand: "Brahmaaaa",
+      brand: "Cerveza Cristal",
       name: "Amstel",
       style: "Pilsen",
       hop: "Amarillo",
